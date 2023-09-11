@@ -32,7 +32,7 @@ print(P[3:7])
 
 print("Task 7")
 x = "coding is cool"
-print(x[-13:-8])
+print(x[6:0:-1])
 
 print("Task 8")
 z = "programming champ"
